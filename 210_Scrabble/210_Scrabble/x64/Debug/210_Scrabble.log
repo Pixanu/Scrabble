@@ -1,3 +1,0 @@
-﻿  Main_Scrabble.cpp
-E:\Github Projects\210-Scrabble\210_Scrabble\210_Scrabble\Main_Scrabble.cpp(238,6): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  210_Scrabble.vcxproj -> E:\Github Projects\210-Scrabble\210_Scrabble\x64\Debug\210_Scrabble.exe
